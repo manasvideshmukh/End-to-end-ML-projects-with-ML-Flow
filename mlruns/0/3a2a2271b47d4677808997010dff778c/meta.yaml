@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End-to-end-ML-projects-with-ML-Flow/mlruns/0/3a2a2271b47d4677808997010dff778c/artifacts
+end_time: 1749635076737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a2a2271b47d4677808997010dff778c
+run_name: rumbling-whale-908
+run_uuid: 3a2a2271b47d4677808997010dff778c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749635070147
+status: 3
+tags: []
+user_id: Lenovo

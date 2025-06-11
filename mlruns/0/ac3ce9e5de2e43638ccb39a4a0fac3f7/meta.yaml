@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End-to-end-ML-projects-with-ML-Flow/mlruns/0/ac3ce9e5de2e43638ccb39a4a0fac3f7/artifacts
+end_time: 1749634876885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac3ce9e5de2e43638ccb39a4a0fac3f7
+run_name: painted-cub-263
+run_uuid: ac3ce9e5de2e43638ccb39a4a0fac3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749634869123
+status: 3
+tags: []
+user_id: Lenovo

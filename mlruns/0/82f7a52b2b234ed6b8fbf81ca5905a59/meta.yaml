@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/End-to-end-ML-projects-with-ML-Flow/mlruns/0/82f7a52b2b234ed6b8fbf81ca5905a59/artifacts
+end_time: 1749635132858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82f7a52b2b234ed6b8fbf81ca5905a59
+run_name: traveling-duck-142
+run_uuid: 82f7a52b2b234ed6b8fbf81ca5905a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749635127249
+status: 3
+tags: []
+user_id: Lenovo
