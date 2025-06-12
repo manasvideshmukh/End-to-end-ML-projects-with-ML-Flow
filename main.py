@@ -4,6 +4,11 @@ from mlProject.pipeline.stage02_data_validation import DataValidationTrainingPip
 from mlProject.pipeline.stage03_data_transformation import DataTransformationTrainingPipeline
 from mlProject.pipeline.stage04_model_trainer import ModelTrainerTrainingPipeline
 from mlProject.pipeline.stage05_model_evalution import ModelEvaluationTrainingPipeline
+from dotenv import load_dotenv
+load_dotenv()
+
+import mlflow  # new
+print("✅ MLflow Tracking URI:", mlflow.get_tracking_uri())  # new added for the track
 
 
 
