@@ -75,10 +75,9 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI= https://dagshub.com/manasvideshmukh/End-to-end-ML-projects-with-ML-Flow.mlflow
-export MLFLOW_TRACKING_USERNAME= manasvideshmukh
-
-export MLFLOW_TRACKING_PASSWORD= 5552cc0f6b58a87d658c319b982ec769977133e3
+export MLFLOW_TRACKING_URI= 
+export MLFLOW_TRACKING_USERNAME= 
+export MLFLOW_TRACKING_PASSWORD= 
 
 ```
 
